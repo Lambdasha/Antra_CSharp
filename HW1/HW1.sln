@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question2Century", "Questio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintPyramid", "PrintPyramid\PrintPyramid.csproj", "{AC70919C-5658-42AF-8CCE-4286D362E996}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumber", "GuessNumber\GuessNumber.csproj", "{999BE58D-FA00-4F29-BF3C-CE4367C24047}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{AC70919C-5658-42AF-8CCE-4286D362E996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC70919C-5658-42AF-8CCE-4286D362E996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC70919C-5658-42AF-8CCE-4286D362E996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999BE58D-FA00-4F29-BF3C-CE4367C24047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999BE58D-FA00-4F29-BF3C-CE4367C24047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999BE58D-FA00-4F29-BF3C-CE4367C24047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999BE58D-FA00-4F29-BF3C-CE4367C24047}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
