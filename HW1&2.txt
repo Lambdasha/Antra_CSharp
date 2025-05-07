@@ -1,33 +1,70 @@
+Understanding Data Types
+
 1. string; double; int; enum; decimal; string; decimal; double; long; BigInteger; int
 
-2. Value Types vs. Reference Types; Boxing & Unboxing
-- Value types (e.g. int, struct, bool):
-  • Stored inline (stack or within objects)
-  • Assignment copies the value
-  • Default initialized to zero/false
-- Reference types (e.g. class, string, delegate):
-  • Stored on the heap; variable holds a pointer
-  • Assignment copies the reference
-  • Default initialized to null
+2. 
+Value types include int or struct, it is stored in the stack, when calling it, it will copy the value. But for reference type, which includes class, string, delegate, it is stored on the heap, and when calling it, it copies the reference of it, directly points to itself, so the changing of the reference type will be irreversible. Value type will not be collected by the garbage collector but the reference type will be collected by garbage collector. Value type can not accept any null value while reference type can accept null values. 
 
-Boxing:
-  Implicitly wrapping a value type in an object reference.
-  Example: object o = 123; // allocates on heap and copies the int
+Boxing is used to wrap a value type into an object reference. Unboxing is used to extract the value type from the boxed object.
 
-Unboxing:
-  Extracting the value type from the boxed object.
-  Example: int x = (int)o; // runtime type-check and copy back
+3. Managed resource is controlled by the CLR and reclaimed by the Garbage Collector (Examples: List<T>, StringBuilder, user-defined classes/structs); Unmanaged resources is external to the CLR: OS handles, file/socket handles, unmanaged memory, GDI objects, COM objects.
 
-3. Managed vs. Unmanaged Resources
-- Managed resources:
-  • Controlled by the CLR and reclaimed by the Garbage Collector
-  • Examples: List<T>, StringBuilder, user-defined classes/structs
-- Unmanaged resources:
-  • External to the CLR: OS handles, file/socket handles, unmanaged memory, GDI objects, COM objects
-  • Must implement IDisposable (and/or a finalizer) for explicit cleanup, e.g. Dispose() or using block
-
-4. Purpose of the Garbage Collector in .NET
+4. 
 - Automatic memory management: tracks object references and reclaims unreachable objects
 - Frees developers from manual free/delete, reducing memory leaks and dangling pointers
 - Uses generations and compaction to balance throughput and latency
-- Configurable modes (Workstation vs. Server, concurrent vs. non-concurrent) for different workload scenarios
+- Configurable modes (Workstation vs. Server, concurrent vs. non-concurrent) for different workload scenarios.
+
+Controlling Flow and Converting Types
+
+1. It will throw a System.DivideByZeroException. error.
+
+2. Dividing a double (or float) by zero does not throw.
+n / 0.0 will be Infinity
+0.0 / 0.0 will be NaN
+
+3. It will throw an OverflowException
+
+4.
+x = y++: Assigns the current value of y to x firstly, then increments y.
+
+x = ++y: Increments y firstly and then assigns the new value of y to x.
+
+5.Break exits the entire loop immediately; Continue skips the rest of the loop body for the current iteration and jumps to the loop’s next iteration. Return exits the whole method immediately.
+
+6.
+for (<initializer>; <condition>; <iterator>)
+None of the three is syntactically required. We can write for(;;) to build an infinite loop.
+
+7.
+= is an assignment operator, placing the right-hand value into the left-hand variable.
+
+== is the equality operator, producing a bool that indicates whether two operands are equal.
+
+8. Yes, it compiles, it’s an infinite loop with an empty body, which means it will never terminate.
+
+9.
+_ is the wildcard or discard pattern, it matches any value not caught by earlier patterns.
+
+10. It should implement System.Collections.IEnumerable (non-generic) or System.Collections.Generic.IEnumerable<T>. The compiler then calls GetEnumerator(), and expects that enumerator to have bool MoveNext() and a Current property.
+
+Array and Strings
+
+1. 
+String is immutable. Any “modification” (concat, replace, substring) allocates a brand-new string. Use it when we do only a few concatenations or modifications.
+
+StringBuilder is mutable, maintaining an internal buffer you can append to, insert into, or remove from without reallocating on each change. Use it when we’re building up a large string in a loop (e.g. appending thousands of pieces).
+
+2. System.Array
+3. Array.Sort(myArray);
+4. Array.Length;
+5. No, we can't. An array’s element type is fixed at compile time.
+6. 
+Clone():
+Creates a new array instance of the same type and length, then does a shallow copy of all elements into it.
+Returns object, so you must cast back to the right array type.
+CopyTo:
+Requires you to supply an existing target array (and start index).
+Copies elements from the source into that target array at the given offset.
+No new array is allocated by the call itself.
+
