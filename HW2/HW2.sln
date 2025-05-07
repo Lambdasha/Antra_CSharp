@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateAndSum_04", "RotateAn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSequence_05", "LongestSequence_05\LongestSequence_05.csproj", "{D79D51AF-0BCC-4762-A7FC-6DA58413507B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequentNumber_07", "FrequentNumber_07\FrequentNumber_07.csproj", "{4235B68B-E1DD-4075-8189-0C7318971D93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{D79D51AF-0BCC-4762-A7FC-6DA58413507B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D79D51AF-0BCC-4762-A7FC-6DA58413507B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D79D51AF-0BCC-4762-A7FC-6DA58413507B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4235B68B-E1DD-4075-8189-0C7318971D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4235B68B-E1DD-4075-8189-0C7318971D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4235B68B-E1DD-4075-8189-0C7318971D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4235B68B-E1DD-4075-8189-0C7318971D93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

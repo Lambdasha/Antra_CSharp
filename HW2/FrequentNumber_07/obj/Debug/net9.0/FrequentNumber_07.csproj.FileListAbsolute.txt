@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/bin/Debug/net9.0/FrequentNumber_07
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/bin/Debug/net9.0/FrequentNumber_07.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/bin/Debug/net9.0/FrequentNumber_07.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/bin/Debug/net9.0/FrequentNumber_07.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/bin/Debug/net9.0/FrequentNumber_07.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/obj/Debug/net9.0/FrequentNumber_07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/obj/Debug/net9.0/FrequentNumber_07.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/obj/Debug/net9.0/FrequentNumber_07.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/obj/Debug/net9.0/FrequentNumber_07.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/obj/Debug/net9.0/FrequentNumber_07.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/obj/Debug/net9.0/FrequentNumber_07.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/obj/Debug/net9.0/refint/FrequentNumber_07.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/obj/Debug/net9.0/FrequentNumber_07.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/obj/Debug/net9.0/FrequentNumber_07.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FrequentNumber_07/obj/Debug/net9.0/ref/FrequentNumber_07.dll
