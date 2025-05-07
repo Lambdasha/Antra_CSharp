@@ -18,6 +18,7 @@ while (true)
         else Console.WriteLine("Item not found.");
     }
     else if (str == "--") items.Clear();
+    else Console.WriteLine("Invalid input.");
     Console.WriteLine("Current list:");
     for (int i = 0; i < items.Count; i++)
     {

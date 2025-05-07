@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FindPrime_03/1.0.0": {
+        "runtime": {
+          "FindPrime_03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindPrime_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
