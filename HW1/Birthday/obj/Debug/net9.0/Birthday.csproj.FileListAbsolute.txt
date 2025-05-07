@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/bin/Debug/net9.0/Birthday
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/bin/Debug/net9.0/Birthday.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/bin/Debug/net9.0/Birthday.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/bin/Debug/net9.0/Birthday.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/bin/Debug/net9.0/Birthday.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/obj/Debug/net9.0/Birthday.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/obj/Debug/net9.0/Birthday.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/obj/Debug/net9.0/Birthday.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/obj/Debug/net9.0/Birthday.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/obj/Debug/net9.0/Birthday.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/obj/Debug/net9.0/Birthday.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/obj/Debug/net9.0/refint/Birthday.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/obj/Debug/net9.0/Birthday.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/obj/Debug/net9.0/Birthday.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Birthday/obj/Debug/net9.0/ref/Birthday.dll
