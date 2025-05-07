@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/bin/Debug/net9.0/FizzBuzz
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/bin/Debug/net9.0/FizzBuzz.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/bin/Debug/net9.0/FizzBuzz.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/bin/Debug/net9.0/FizzBuzz.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/bin/Debug/net9.0/FizzBuzz.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/obj/Debug/net9.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/obj/Debug/net9.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/obj/Debug/net9.0/FizzBuzz.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/obj/Debug/net9.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/obj/Debug/net9.0/FizzBuzz.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/obj/Debug/net9.0/FizzBuzz.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/obj/Debug/net9.0/refint/FizzBuzz.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/obj/Debug/net9.0/FizzBuzz.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/obj/Debug/net9.0/FizzBuzz.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/FizzBuzz/obj/Debug/net9.0/ref/FizzBuzz.dll
