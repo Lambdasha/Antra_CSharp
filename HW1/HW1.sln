@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02UnderstandingTypes", "02UnderstandingTypes\02UnderstandingTypes.csproj", "{5715D4D9-96AB-4E3E-9EAA-B7EE43C6A543}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question2Century", "Question2Century\Question2Century.csproj", "{6957E1F3-EDEA-49C2-8561-6E4EF0535224}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{5715D4D9-96AB-4E3E-9EAA-B7EE43C6A543}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5715D4D9-96AB-4E3E-9EAA-B7EE43C6A543}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5715D4D9-96AB-4E3E-9EAA-B7EE43C6A543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6957E1F3-EDEA-49C2-8561-6E4EF0535224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6957E1F3-EDEA-49C2-8561-6E4EF0535224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6957E1F3-EDEA-49C2-8561-6E4EF0535224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6957E1F3-EDEA-49C2-8561-6E4EF0535224}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

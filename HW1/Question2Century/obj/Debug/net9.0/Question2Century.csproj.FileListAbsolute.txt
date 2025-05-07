@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/obj/Debug/net9.0/Question2Century.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/obj/Debug/net9.0/Question2Century.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/obj/Debug/net9.0/Question2Century.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/obj/Debug/net9.0/Question2Century.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/obj/Debug/net9.0/Question2Century.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/bin/Debug/net9.0/Question2Century
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/bin/Debug/net9.0/Question2Century.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/bin/Debug/net9.0/Question2Century.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/bin/Debug/net9.0/Question2Century.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/bin/Debug/net9.0/Question2Century.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/obj/Debug/net9.0/Question2Century.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/obj/Debug/net9.0/refint/Question2Century.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/obj/Debug/net9.0/Question2Century.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/obj/Debug/net9.0/Question2Century.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Question2Century/obj/Debug/net9.0/ref/Question2Century.dll
