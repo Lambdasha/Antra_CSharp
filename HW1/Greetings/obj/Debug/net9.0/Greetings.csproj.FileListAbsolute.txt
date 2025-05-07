@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/bin/Debug/net9.0/Greetings
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/bin/Debug/net9.0/Greetings.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/bin/Debug/net9.0/Greetings.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/bin/Debug/net9.0/Greetings.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/bin/Debug/net9.0/Greetings.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/obj/Debug/net9.0/Greetings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/obj/Debug/net9.0/Greetings.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/obj/Debug/net9.0/Greetings.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/obj/Debug/net9.0/Greetings.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/obj/Debug/net9.0/Greetings.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/obj/Debug/net9.0/Greetings.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/obj/Debug/net9.0/refint/Greetings.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/obj/Debug/net9.0/Greetings.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/obj/Debug/net9.0/Greetings.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Greetings/obj/Debug/net9.0/ref/Greetings.dll
