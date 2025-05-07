@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/bin/Debug/net9.0/02UnderstandingTypes.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/obj/Debug/net9.0/refint/02UnderstandingTypes.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/obj/Debug/net9.0/02UnderstandingTypes.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/02UnderstandingTypes/obj/Debug/net9.0/ref/02UnderstandingTypes.dll
