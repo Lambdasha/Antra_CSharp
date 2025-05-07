@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/bin/Debug/net9.0/Increments24
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/bin/Debug/net9.0/Increments24.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/bin/Debug/net9.0/Increments24.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/bin/Debug/net9.0/Increments24.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/bin/Debug/net9.0/Increments24.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/obj/Debug/net9.0/Increments24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/obj/Debug/net9.0/Increments24.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/obj/Debug/net9.0/Increments24.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/obj/Debug/net9.0/Increments24.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/obj/Debug/net9.0/Increments24.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/obj/Debug/net9.0/Increments24.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/obj/Debug/net9.0/refint/Increments24.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/obj/Debug/net9.0/Increments24.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/obj/Debug/net9.0/Increments24.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW1/Increments24/obj/Debug/net9.0/ref/Increments24.dll

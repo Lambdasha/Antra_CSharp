@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday", "Birthday\Birthd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greetings", "Greetings\Greetings.csproj", "{AA844370-9AF7-44BF-A8EA-25B57BC82AB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increments24", "Increments24\Increments24.csproj", "{C4E55764-D88F-4E93-9A51-8BC8E6501FE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{AA844370-9AF7-44BF-A8EA-25B57BC82AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA844370-9AF7-44BF-A8EA-25B57BC82AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA844370-9AF7-44BF-A8EA-25B57BC82AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E55764-D88F-4E93-9A51-8BC8E6501FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E55764-D88F-4E93-9A51-8BC8E6501FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E55764-D88F-4E93-9A51-8BC8E6501FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E55764-D88F-4E93-9A51-8BC8E6501FE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
