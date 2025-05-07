@@ -1,0 +1,33 @@
+1. string; double; int; enum; decimal; string; decimal; double; long; BigInteger; int
+
+2. Value Types vs. Reference Types; Boxing & Unboxing
+- Value types (e.g. int, struct, bool):
+  • Stored inline (stack or within objects)
+  • Assignment copies the value
+  • Default initialized to zero/false
+- Reference types (e.g. class, string, delegate):
+  • Stored on the heap; variable holds a pointer
+  • Assignment copies the reference
+  • Default initialized to null
+
+Boxing:
+  Implicitly wrapping a value type in an object reference.
+  Example: object o = 123; // allocates on heap and copies the int
+
+Unboxing:
+  Extracting the value type from the boxed object.
+  Example: int x = (int)o; // runtime type-check and copy back
+
+3. Managed vs. Unmanaged Resources
+- Managed resources:
+  • Controlled by the CLR and reclaimed by the Garbage Collector
+  • Examples: List<T>, StringBuilder, user-defined classes/structs
+- Unmanaged resources:
+  • External to the CLR: OS handles, file/socket handles, unmanaged memory, GDI objects, COM objects
+  • Must implement IDisposable (and/or a finalizer) for explicit cleanup, e.g. Dispose() or using block
+
+4. Purpose of the Garbage Collector in .NET
+- Automatic memory management: tracks object references and reclaims unreachable objects
+- Frees developers from manual free/delete, reducing memory leaks and dangling pointers
+- Uses generations and compaction to balance throughput and latency
+- Configurable modes (Workstation vs. Server, concurrent vs. non-concurrent) for different workload scenarios

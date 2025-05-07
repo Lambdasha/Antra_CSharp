@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/bin/Debug/net9.0/ManageItem_02
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/bin/Debug/net9.0/ManageItem_02.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/bin/Debug/net9.0/ManageItem_02.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/bin/Debug/net9.0/ManageItem_02.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/bin/Debug/net9.0/ManageItem_02.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/obj/Debug/net9.0/ManageItem_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/obj/Debug/net9.0/ManageItem_02.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/obj/Debug/net9.0/ManageItem_02.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/obj/Debug/net9.0/ManageItem_02.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/obj/Debug/net9.0/ManageItem_02.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/obj/Debug/net9.0/ManageItem_02.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/obj/Debug/net9.0/refint/ManageItem_02.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/obj/Debug/net9.0/ManageItem_02.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/obj/Debug/net9.0/ManageItem_02.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ManageItem_02/obj/Debug/net9.0/ref/ManageItem_02.dll
