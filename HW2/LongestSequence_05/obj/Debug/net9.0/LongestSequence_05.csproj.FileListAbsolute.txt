@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/bin/Debug/net9.0/LongestSequence_05
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/bin/Debug/net9.0/LongestSequence_05.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/bin/Debug/net9.0/LongestSequence_05.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/bin/Debug/net9.0/LongestSequence_05.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/bin/Debug/net9.0/LongestSequence_05.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/obj/Debug/net9.0/LongestSequence_05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/obj/Debug/net9.0/LongestSequence_05.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/obj/Debug/net9.0/LongestSequence_05.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/obj/Debug/net9.0/LongestSequence_05.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/obj/Debug/net9.0/LongestSequence_05.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/obj/Debug/net9.0/LongestSequence_05.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/obj/Debug/net9.0/refint/LongestSequence_05.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/obj/Debug/net9.0/LongestSequence_05.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/obj/Debug/net9.0/LongestSequence_05.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/LongestSequence_05/obj/Debug/net9.0/ref/LongestSequence_05.dll

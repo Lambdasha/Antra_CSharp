@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/bin/Debug/net9.0/RotateAndSum_04
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/bin/Debug/net9.0/RotateAndSum_04.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/bin/Debug/net9.0/RotateAndSum_04.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/bin/Debug/net9.0/RotateAndSum_04.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/bin/Debug/net9.0/RotateAndSum_04.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/obj/Debug/net9.0/RotateAndSum_04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/obj/Debug/net9.0/RotateAndSum_04.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/obj/Debug/net9.0/RotateAndSum_04.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/obj/Debug/net9.0/RotateAndSum_04.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/obj/Debug/net9.0/RotateAndSum_04.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/obj/Debug/net9.0/RotateAndSum_04.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/obj/Debug/net9.0/refint/RotateAndSum_04.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/obj/Debug/net9.0/RotateAndSum_04.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/obj/Debug/net9.0/RotateAndSum_04.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/RotateAndSum_04/obj/Debug/net9.0/ref/RotateAndSum_04.dll
