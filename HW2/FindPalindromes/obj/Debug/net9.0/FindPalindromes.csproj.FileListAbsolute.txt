@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/bin/Debug/net9.0/FindPalindromes
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/bin/Debug/net9.0/FindPalindromes.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/bin/Debug/net9.0/FindPalindromes.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/bin/Debug/net9.0/FindPalindromes.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/bin/Debug/net9.0/FindPalindromes.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/obj/Debug/net9.0/FindPalindromes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/obj/Debug/net9.0/FindPalindromes.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/obj/Debug/net9.0/FindPalindromes.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/obj/Debug/net9.0/FindPalindromes.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/obj/Debug/net9.0/FindPalindromes.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/obj/Debug/net9.0/FindPalindromes.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/obj/Debug/net9.0/refint/FindPalindromes.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/obj/Debug/net9.0/FindPalindromes.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/obj/Debug/net9.0/FindPalindromes.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/FindPalindromes/obj/Debug/net9.0/ref/FindPalindromes.dll

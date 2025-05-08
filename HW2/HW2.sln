@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseStr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWords", "ReverseWords\ReverseWords.csproj", "{DC3BCB32-CCCE-4607-997D-F7244CF03F51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPalindromes", "FindPalindromes\FindPalindromes.csproj", "{FD210437-73D2-48F5-B546-8871F1D5BD1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseURL", "ParseURL\ParseURL.csproj", "{DB80F2E7-9F7C-45A0-84AE-A79F0C6F0B96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{DC3BCB32-CCCE-4607-997D-F7244CF03F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC3BCB32-CCCE-4607-997D-F7244CF03F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC3BCB32-CCCE-4607-997D-F7244CF03F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD210437-73D2-48F5-B546-8871F1D5BD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD210437-73D2-48F5-B546-8871F1D5BD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD210437-73D2-48F5-B546-8871F1D5BD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD210437-73D2-48F5-B546-8871F1D5BD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB80F2E7-9F7C-45A0-84AE-A79F0C6F0B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB80F2E7-9F7C-45A0-84AE-A79F0C6F0B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB80F2E7-9F7C-45A0-84AE-A79F0C6F0B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB80F2E7-9F7C-45A0-84AE-A79F0C6F0B96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
