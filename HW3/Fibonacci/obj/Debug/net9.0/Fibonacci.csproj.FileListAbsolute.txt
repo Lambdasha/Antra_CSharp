@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/bin/Debug/net9.0/Fibonacci
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/bin/Debug/net9.0/Fibonacci.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/bin/Debug/net9.0/Fibonacci.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/bin/Debug/net9.0/Fibonacci.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/bin/Debug/net9.0/Fibonacci.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/obj/Debug/net9.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/obj/Debug/net9.0/Fibonacci.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/obj/Debug/net9.0/Fibonacci.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/obj/Debug/net9.0/Fibonacci.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/obj/Debug/net9.0/Fibonacci.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/obj/Debug/net9.0/Fibonacci.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/obj/Debug/net9.0/refint/Fibonacci.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/obj/Debug/net9.0/Fibonacci.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/obj/Debug/net9.0/Fibonacci.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Fibonacci/obj/Debug/net9.0/ref/Fibonacci.dll
