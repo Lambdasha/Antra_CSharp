@@ -1,0 +1,17 @@
+1. Access modifiers
+public: Accessible everywhere.
+private: Accessible only within the containing type.
+protected: Accessible within the containing type and its derived types.
+internal: Accessible anywhere in the same assembly.
+protected internal: Accessible by derived types or any code in the same assembly.
+private protected: Accessible by derived types only in the same assembly.
+
+2.
+static: Member belongs to the type itself, not to any instance.
+const: Compile-time constant. Implicitly static; value baked into callers. Cannot be changed.
+readonly: Runtime constant, it can be assigned in the declaration or in a constructor, then never changed.
+
+3.
+Constructor is a special instance method that runs when you create an object. It can be used to initialize fields within a class.
+
+4.
