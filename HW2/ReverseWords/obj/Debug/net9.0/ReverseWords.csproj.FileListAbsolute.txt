@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/bin/Debug/net9.0/ReverseWords
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/bin/Debug/net9.0/ReverseWords.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/bin/Debug/net9.0/ReverseWords.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/bin/Debug/net9.0/ReverseWords.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/bin/Debug/net9.0/ReverseWords.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/obj/Debug/net9.0/ReverseWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/obj/Debug/net9.0/ReverseWords.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/obj/Debug/net9.0/ReverseWords.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/obj/Debug/net9.0/ReverseWords.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/obj/Debug/net9.0/ReverseWords.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/obj/Debug/net9.0/ReverseWords.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/obj/Debug/net9.0/refint/ReverseWords.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/obj/Debug/net9.0/ReverseWords.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/obj/Debug/net9.0/ReverseWords.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW2/ReverseWords/obj/Debug/net9.0/ref/ReverseWords.dll
