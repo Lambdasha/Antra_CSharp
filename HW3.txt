@@ -15,3 +15,56 @@ readonly: Runtime constant, it can be assigned in the declaration or in a constr
 Constructor is a special instance method that runs when you create an object. It can be used to initialize fields within a class.
 
 4.
+The partial keyword will allow us to split a single type’s definition across multiple files. The compiler will merge them into one class/struct/record at compile time. Its' useful when we want to keep auto-generated code separate from hand-written code or when You have a very large class and want to organize it logically (e.g. properties in one file, methods in another).
+
+5.
+Tuple is a group of value. E.g. (int x, string y) a = (0, "abc"); gives you a.x == 0 and a.y == "abc".
+
+6.
+A record is like a compiler-generated class template that wires up a lot of common boilerplate for you. It declares a reference type with built-in value-based equality, Deconstruct, and an immutable-by-default syntax for properties.
+
+7.
+Overloading: Multiple methods with the same name but different parameter lists in the same type.
+Overriding: A derived type provides a new implementation for a virtual or abstract class method using the override keyword.
+
+8.
+Field: A raw variable declared in a class or struct. E.g. public int id;  
+Property: A pair of accessors (get/set) that look like a field from the outside but can encapsulate logic. E.g. public string Name { get; set; }  
+
+9.
+We can make a method parameter optional by giving it a default value in its declaration.
+All optional parameters must come after any required ones.
+
+10.
+Interface: A pure contract—no instance fields. It will define some common behaviours or functionalities that can be implemented by any class.
+Abstract class: Can contain fields, constructors, normal or abstract methods, and implementation code. 
+One class can only inherit from one abstract or concrete class but one class can implement multiple interfaces.
+Methods in an abstract class can be abstract method or non-abstract method. But for methods in an interface, they are by default public and abstract. 
+
+11.
+Interface is Always public.
+
+12. True
+
+13. True
+
+14. False. A new keyword hides a base-class member; it does not override it.
+
+15. False. An abstract method may only appear in an abstract class.
+
+16. True.
+
+17. True
+
+18. True.
+
+19. False. You cannot override a method that wasn’t marked virtual or abstract in the base class.
+
+20. False. A non-abstract class that implements an interface must implement all its members.
+
+21. True 
+
+22. False. C# supports single inheritance for classes (exactly one base class).
+
+23. True.
+
