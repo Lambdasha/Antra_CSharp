@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/bin/Debug/net9.0/Color_Ball
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/bin/Debug/net9.0/Color_Ball.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/bin/Debug/net9.0/Color_Ball.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/bin/Debug/net9.0/Color_Ball.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/bin/Debug/net9.0/Color_Ball.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/obj/Debug/net9.0/Color_Ball.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/obj/Debug/net9.0/Color_Ball.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/obj/Debug/net9.0/Color_Ball.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/obj/Debug/net9.0/Color_Ball.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/obj/Debug/net9.0/Color_Ball.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/obj/Debug/net9.0/Color_Ball.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/obj/Debug/net9.0/refint/Color_Ball.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/obj/Debug/net9.0/Color_Ball.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/obj/Debug/net9.0/Color_Ball.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/Color_Ball/obj/Debug/net9.0/ref/Color_Ball.dll

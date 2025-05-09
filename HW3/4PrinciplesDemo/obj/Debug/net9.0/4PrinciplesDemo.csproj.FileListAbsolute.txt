@@ -1,0 +1,15 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/bin/Debug/net9.0/4PrinciplesDemo
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/bin/Debug/net9.0/4PrinciplesDemo.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/bin/Debug/net9.0/4PrinciplesDemo.runtimeconfig.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/bin/Debug/net9.0/4PrinciplesDemo.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/bin/Debug/net9.0/4PrinciplesDemo.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/obj/Debug/net9.0/4PrinciplesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/obj/Debug/net9.0/4PrinciplesDemo.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/obj/Debug/net9.0/4PrinciplesDemo.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/obj/Debug/net9.0/4PrinciplesDemo.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/obj/Debug/net9.0/4PrinciplesDemo.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/obj/Debug/net9.0/4PrinciplesDemo.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/obj/Debug/net9.0/refint/4PrinciplesDemo.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/obj/Debug/net9.0/4PrinciplesDemo.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/obj/Debug/net9.0/4PrinciplesDemo.genruntimeconfig.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_C#/C#_HW/HW3/4PrinciplesDemo/obj/Debug/net9.0/ref/4PrinciplesDemo.dll

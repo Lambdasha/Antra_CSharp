@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{76799A0E-0CCE-4474-AB53-B84819570263}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4PrinciplesDemo", "4PrinciplesDemo\4PrinciplesDemo.csproj", "{AF03D6BE-5476-4F8B-BE87-D76FFC861906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Color_Ball", "Color_Ball\Color_Ball.csproj", "{5C574489-A5EC-48F9-82D9-87EAEDD41731}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{76799A0E-0CCE-4474-AB53-B84819570263}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76799A0E-0CCE-4474-AB53-B84819570263}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76799A0E-0CCE-4474-AB53-B84819570263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF03D6BE-5476-4F8B-BE87-D76FFC861906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF03D6BE-5476-4F8B-BE87-D76FFC861906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF03D6BE-5476-4F8B-BE87-D76FFC861906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF03D6BE-5476-4F8B-BE87-D76FFC861906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C574489-A5EC-48F9-82D9-87EAEDD41731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C574489-A5EC-48F9-82D9-87EAEDD41731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C574489-A5EC-48F9-82D9-87EAEDD41731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C574489-A5EC-48F9-82D9-87EAEDD41731}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
