@@ -1,0 +1,31 @@
+1.
+Generics let you write collection and utility classes once, yet work with any data type in a type-safe way. Without them you’d resort to object (losing compile-time safety and incurring casts) or duplicate code for each type (e.g. IntList, StringList, CustomerList, etc.).
+
+2.
+var items = new List<string>();
+
+3.
+Two: Dictionary<TKey, TValue>.
+
+4.
+False. You can have different type parameters.
+
+5.
+List<T>.Add(T item)
+
+6.
+Remove(T item)
+RemoveAt(int index)
+
+7.
+We can put a type parameter list in angle brackets after its name.
+public class MyList<T>
+
+8.
+False. You can have any number of parameters.
+
+9.
+True
+
+10.
+True
