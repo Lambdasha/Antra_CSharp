@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStackClass", "MyStackClass\MyStackClass.csproj", "{516D2183-6E16-4D08-B2D5-2815D18C9C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMyList", "GenericMyList\GenericMyList.csproj", "{BF84F5CE-A38F-497B-857F-8A052180138F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRepository", "MyRepository\MyRepository.csproj", "{6CB4A1C8-2BD2-4CE2-94D9-2854AC057F32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{516D2183-6E16-4D08-B2D5-2815D18C9C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516D2183-6E16-4D08-B2D5-2815D18C9C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516D2183-6E16-4D08-B2D5-2815D18C9C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516D2183-6E16-4D08-B2D5-2815D18C9C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF84F5CE-A38F-497B-857F-8A052180138F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF84F5CE-A38F-497B-857F-8A052180138F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF84F5CE-A38F-497B-857F-8A052180138F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF84F5CE-A38F-497B-857F-8A052180138F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB4A1C8-2BD2-4CE2-94D9-2854AC057F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB4A1C8-2BD2-4CE2-94D9-2854AC057F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB4A1C8-2BD2-4CE2-94D9-2854AC057F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB4A1C8-2BD2-4CE2-94D9-2854AC057F32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
